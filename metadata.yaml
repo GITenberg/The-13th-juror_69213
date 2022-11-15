@@ -1,0 +1,41 @@
+_repo: The-13th-juror_69213
+_version: 0.0.1
+alternative_title: The thirteenth juror
+contributor:
+  illustrator:
+    agent_name: Poulton, Peter
+    alias: Poulton, Nelson
+    birthdate: 1914
+    deathdate: 1972
+    gutenberg_agent_id: '55137'
+    url: http://www.gutenberg.org/2009/agents/55137
+creator:
+  author:
+    agent_name: Waltham, Leslie
+    gutenberg_agent_id: '55167'
+    url: http://www.gutenberg.org/2009/agents/55167
+description: ''
+gutenberg_issued: '2022-10-23'
+identifiers:
+  gutenberg: '69213'
+language: en
+pgterms:marc905: 20220530043326waltham
+pgterms:marc906: '1955'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net.
+publication_note: 'United States: Standard Magazines, Inc.,1955.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcsh 'Short stories'
+- !lcsh 'Jealousy -- Fiction'
+- !lcsh 'Husband and wife -- Fiction'
+- !lcsh 'Space travelers -- Fiction'
+- !lcsh 'Trials -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: The 13th juror
+url: http://www.gutenberg.org/ebooks/69213
